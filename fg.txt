@@ -1,3 +1,1 @@
-https://github.com/DearManty/Rabi.git
-
-"https://github.com/DearManty/Rabi.git"
+git config --global user.name "FIRST_NAME LAST_NAME"
